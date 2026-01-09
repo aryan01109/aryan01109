@@ -11,6 +11,12 @@
 - 🎯 Goal: Software Engineer  
 
 ---
+## 💻 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,git,github,python,nodejs,mongodb,vscode" />
+</p>
+
+---
 
 ## 📊 GitHub Stats
 <p align="center">
