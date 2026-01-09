@@ -21,8 +21,9 @@
 
 ## 📈 Contribution Graph
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhoya-aryan-1410a3334&theme=github-compact"/>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=bhoya-aryan-1410a3334&theme=github-compact"/>
 </p>
+
 
 ---
 
