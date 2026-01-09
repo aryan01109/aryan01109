@@ -10,35 +10,6 @@ I actively work on coding projects, practice competitive programming, and explor
 
 My goal is to grow into a skilled Software Engineer who contributes to impactful products, innovative teams, and meaningful technology.
 
-🛠️ Tech Stack
-
-Languages: C++, JavaScript
-
-Core CS: Data Structures & Algorithms
-
-Web: HTML, CSS, JavaScript
-
-Tools: Git, GitHub, VS Code
-
-🌟 Interests
-
-Software Engineering
-
-Problem Solving
-
-Open Source
-
-AI & Modern Technologies
-
-🚀 Currently Looking For
-
-Internships
-
-Entry-level Software Roles
-
-Open-source & collaborative projects
-
-Learning and growth opportunities
 </p>
 
 
