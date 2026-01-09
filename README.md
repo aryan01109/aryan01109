@@ -1,16 +1,5 @@
 <h1 align="center">👋 Hi, I'm Aryan Patel</h1>
 <h3 align="center">💻 C++ | DSA | Web Developer | Open Source Learner</h3>
-<p>
-
-👋 About Me
-
-I am a motivated Computer Science student passionate about software development, problem-solving, and building real-world applications. My core strengths lie in C++, Data Structures & Algorithms, and Web Development, and I enjoy transforming complex ideas into simple, efficient, and scalable solutions.
-
-I actively work on coding projects, practice competitive programming, and explore modern web technologies to strengthen my technical foundation. I believe in writing clean, optimized, and maintainable code while continuously learning new tools and frameworks.
-
-My goal is to grow into a skilled Software Engineer who contributes to impactful products, innovative teams, and meaningful technology.
-
-</p>
 
 
 ---
