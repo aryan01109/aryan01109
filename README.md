@@ -26,7 +26,11 @@
 ---
 
 ## 🔥 Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=aryan01109&theme=github-dark&hide_border=true)
+## 🚀 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan01109&theme=tokyo-night&hide_border=true&radius=8" />
+</p>
+
 
 
 ---
