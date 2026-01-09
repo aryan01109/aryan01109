@@ -16,12 +16,16 @@
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=aryan01109&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=aryan01109&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</p>
 
 ---
 
 ## 🧠 Top Languages
-![Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aryan01109&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aryan01109&layout=compact&theme=dark"/>
+</p>
 
 ---
 
