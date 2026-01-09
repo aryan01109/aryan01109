@@ -32,7 +32,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=aryan01109&theme=darkhub&margin-w=15)
+![Trophies](https://github-profile-trophy.vercel.app/?username=aryan01109&theme=radical&no-frame=true&row=1&column=7)
 
 ---
 
