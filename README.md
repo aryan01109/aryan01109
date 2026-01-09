@@ -39,7 +39,8 @@
 
 ---
 
-## 👀 Profile Views
+## 👀 Profile Visitors
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aryan01109&label=Visitors&color=00F7FF&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=aryan01109&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
 </p>
+
