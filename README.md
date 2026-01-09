@@ -31,10 +31,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=aryan01109&theme=radical&no-frame=true&row=1&column=7)
-
----
 
 ## 👨‍💻 Tech Stack
 <p align="center">
@@ -44,4 +40,6 @@
 ---
 
 ## 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=aryan01109&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aryan01109&label=Visitors&color=00F7FF&style=flat-square" />
+</p>
