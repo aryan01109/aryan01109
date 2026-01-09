@@ -26,7 +26,8 @@
 ---
 
 ## 🔥 Contribution Graph
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=aryan01109&theme=github-dark)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=aryan01109&theme=github-dark&hide_border=true)
+
 
 ---
 
