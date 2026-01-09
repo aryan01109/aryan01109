@@ -25,11 +25,11 @@
 
 ---
 
-## 🔥 Contribution Graph
 ## 🚀 Contribution Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan01109&theme=tokyo-night&hide_border=true&radius=8" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan01109&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF" />
 </p>
+
 
 
 
