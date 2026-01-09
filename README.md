@@ -2,20 +2,44 @@
 <h3 align="center">💻 C++ | DSA | Web Developer | Open Source Learner</h3>
 <p>
 
-I am a motivated and passionate Computer Science student with a strong interest in software development, problem-solving, and building real-world applications. My core strengths lie in C++, Data Structures & Algorithms, and Web Development, and I enjoy turning complex problems into simple, efficient solutions.
+👋 About Me
 
-I actively work on coding projects, practice competitive programming, and explore modern web technologies to strengthen my technical foundation. I believe in writing clean, optimized, and scalable code while continuously learning and adapting to new technologies.
+I am a motivated Computer Science student passionate about software development, problem-solving, and building real-world applications. My core strengths lie in C++, Data Structures & Algorithms, and Web Development, and I enjoy transforming complex ideas into simple, efficient, and scalable solutions.
 
-My goal is to grow into a skilled Software Engineer who contributes to impactful products, innovative teams, and meaningful technology solutions.
+I actively work on coding projects, practice competitive programming, and explore modern web technologies to strengthen my technical foundation. I believe in writing clean, optimized, and maintainable code while continuously learning new tools and frameworks.
 
-📌 Skills:
-C++, Data Structures & Algorithms, HTML, CSS, JavaScript, Git & GitHub, Web Development
+My goal is to grow into a skilled Software Engineer who contributes to impactful products, innovative teams, and meaningful technology.
 
-📌 Interests:
-Software Engineering, Problem Solving, Open Source, AI & Technology
+🛠️ Tech Stack
 
-📌 Looking for:
-Internships, entry-level roles, collaborative projects, and learning opportunities.</p>
+Languages: C++, JavaScript
+
+Core CS: Data Structures & Algorithms
+
+Web: HTML, CSS, JavaScript
+
+Tools: Git, GitHub, VS Code
+
+🌟 Interests
+
+Software Engineering
+
+Problem Solving
+
+Open Source
+
+AI & Modern Technologies
+
+🚀 Currently Looking For
+
+Internships
+
+Entry-level Software Roles
+
+Open-source & collaborative projects
+
+Learning and growth opportunities
+</p>
 
 
 ---
