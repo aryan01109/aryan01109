@@ -10,6 +10,22 @@
 - 🔥 Learning GitHub, Open Source & Projects  
 - 🎯 Goal: Software Engineer  
 
+<p>
+
+I am a motivated and passionate Computer Science student with a strong interest in software development, problem-solving, and building real-world applications. My core strengths lie in C++, Data Structures & Algorithms, and Web Development, and I enjoy turning complex problems into simple, efficient solutions.
+
+I actively work on coding projects, practice competitive programming, and explore modern web technologies to strengthen my technical foundation. I believe in writing clean, optimized, and scalable code while continuously learning and adapting to new technologies.
+
+My goal is to grow into a skilled Software Engineer who contributes to impactful products, innovative teams, and meaningful technology solutions.
+
+📌 Skills:
+C++, Data Structures & Algorithms, HTML, CSS, JavaScript, Git & GitHub, Web Development
+
+📌 Interests:
+Software Engineering, Problem Solving, Open Source, AI & Technology
+
+📌 Looking for:
+Internships, entry-level roles, collaborative projects, and learning opportunities.</p>
 ---
 
 ## 📊 GitHub Stats
