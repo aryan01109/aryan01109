@@ -1,49 +1,37 @@
-<h1 align="center">👋 Aryan Patel</h1>
+<h1 align="center">👋 Hi, I'm Aryan Patel</h1>
 <h3 align="center">💻 C++ | DSA | Web Developer | Open Source Learner</h3>
 
 <p align="center">
-<img src="https://github.com/aryan01109.png" width="150"/>
+  <img src="https://github.com/aryan01109.png" width="160"/>
 </p>
 
 ---
 
-## 📊 GitHub Overview
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryan01109&theme=github_dark"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aryan01109&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aryan01109&theme=github_dark"/>
-</p>
+## 🚀 About Me
+- 🎓 Computer Science Student  
+- 💡 Passionate about C++, DSA & Web Development  
+- 🔥 Learning GitHub, Open Source & Projects  
+- 🎯 Goal: Software Engineer  
 
 ---
 
-## 🔥 Contribution Activity
-<p align="center">
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=aryan01109&theme=github-compact"/>
-</p>
+## 📊 GitHub Stats
+![Aryan's Stats](https://github-readme-stats.vercel.app/api?username=aryan01109&show_icons=true&theme=dark&cache_seconds=1800)
 
 ---
 
 ## 🧠 Top Languages
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan01109&layout=compact&theme=github_dark"/>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan01109&layout=compact&theme=dark)
 
 ---
 
-## ⚡ GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aryan01109&show_icons=true&theme=github_dark"/>
-</p>
+## 🔥 Contribution Graph
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=aryan01109&theme=github-dark)
 
 ---
 
 ## 🏆 GitHub Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=aryan01109&theme=darkhub"/>
-</p>
+![Trophies](https://github-profile-trophy.vercel.app/?username=aryan01109&theme=darkhub&margin-w=15)
 
 ---
 
@@ -55,6 +43,4 @@
 ---
 
 ## 👀 Profile Views
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=aryan01109&color=blue"/>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=aryan01109&color=blue)
