@@ -1,9 +1,6 @@
 <h1 align="center">👋 Hi, I'm Aryan Patel</h1>
 <h3 align="center">💻 C++ | DSA | Web Developer | Open Source Learner</h3>
 
-<p align="center">
-  <img src="https://github.com/aryan01109.png" width="160"/>
-</p>
 
 ---
 
