@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Aryan Patel</h1>
+<h1 align="center">👋 Hi, I'm Aryan Bhoya</h1>
 <h3 align="center">💻 C++ | DSA | Web Developer | Open Source Learner</h3>
 
 
