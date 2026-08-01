@@ -166,15 +166,6 @@ Implemented and compared multiple ML algorithms including:
 
 </p>
 
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/aryan01109/aryan01109/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-
-</p>
 
 ---
 
