@@ -1,188 +1,172 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm **Aryan Bhoya**
-
 <div align="center">
 
-# 📊 Data Analyst | Data Science Enthusiast | Python Developer
+# 🚀 Aryan Bhoya
 
-### *Turning Raw Data into Meaningful Insights*
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Aspiring+Data+Analyst;Python+Developer;SQL+%7C+Power+BI+%7C+Excel;Machine+Learning+Enthusiast;Data+Visualization+Lover;Always+Learning+New+Technologies"/>
-
-</div>
-
----
-
-## 🚀 About Me
-
-🎓 Computer Engineering Student at **L.D. College of Engineering (LDCE)**
-
-📊 Passionate about **Data Analytics, Data Science, and Machine Learning**
-
-💡 Interested in solving real-world problems through data-driven decision making
-
-🐍 Skilled in Python, SQL, Pandas, NumPy, Data Visualization, and Machine Learning
-
-🌱 Currently learning:
-
-* Power BI
-* Tableau
-* Advanced SQL
-* Statistics
-* Machine Learning
-* Deep Learning
-
-🎯 **Career Goal**
-
-Become a professional **Data Analyst** and **Data Scientist**, building intelligent solutions that help businesses make better decisions.
-
----
-
-# 💻 Tech Stack
-
-### 👨‍💻 Languages
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=📊+Data+Analyst;🐍+Python+Developer;📈+Machine+Learning+Enthusiast;💡+Transforming+Data+Into+Insights;🚀+Always+Learning+Something+New"/>
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,mysql"/>
-</p>
-
-### 📊 Data Analysis
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-</p>
-
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Scikit-learn
-
-### 📈 Visualization
-
-* Power BI
-* Excel
-* Tableau
-
-### 🛠 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase"/>
-</p>
-
-* Jupyter Notebook
-* Google Colab
-
----
-
-# 🚀 Featured Projects
-
-### 📈 Stock Price Prediction
-
-Machine Learning model for forecasting stock prices using historical market data.
-
-**Tech Stack**
-
-`Python` • `Pandas` • `NumPy` • `TensorFlow` • `Matplotlib`
-
----
-
-### 📊 Exploratory Data Analysis
-
-Analyzed real-world datasets to discover trends, clean data, and create insightful visualizations.
-
-**Tech Stack**
-
-`Python` • `Pandas` • `Seaborn` • `Matplotlib`
-
----
-
-### 📉 Sales Dashboard
-
-Interactive business intelligence dashboard showing KPIs, revenue, profit, and customer insights.
-
-**Tech Stack**
-
-`Power BI` • `Excel` • `SQL`
-
----
-
-### 🤖 Machine Learning Models
-
-Implemented and compared multiple ML algorithms including:
-
-* Linear Regression
-* Logistic Regression
-* Decision Tree
-* Random Forest
-* K-Means Clustering
-
----
-
-# 📚 Currently Learning
-
-* Advanced SQL
-* Power BI
-* Tableau
-* Statistics
-* Machine Learning
-* Deep Learning
-* Data Engineering Fundamentals
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aryan01109&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan01109&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan01109&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aryan01109&theme=algolia&margin-w=10&margin-h=10&no-frame=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/aryan01109/aryan01109/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-
-</p>
-
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
 
 <a href="mailto:aryanbhoya01@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="https://www.linkedin.com/in/bhoya-aryan-1410a3334">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
 <a href="https://github.com/aryan01109">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=aryan01109&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+```python
+class AryanBhoya:
+
+    role = "Aspiring Data Analyst"
+
+    education = "Computer Engineering"
+
+    interests = [
+        "Data Analytics",
+        "Machine Learning",
+        "Data Science",
+        "Business Intelligence"
+    ]
+
+    currently_learning = [
+        "Power BI",
+        "SQL",
+        "Statistics",
+        "Machine Learning"
+    ]
+
+    motto = "Turning Data into Actionable Insights 📈"
+```
+
+---
+
+# ⚡ Tech Arsenal
+
+### Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,mysql"/>
+</p>
+
+### Data Analysis
+
+<p>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,matplotlib,seaborn,sklearn,tensorflow"/>
+</p>
+
+### Visualization
+
+<p>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi"/>
+<img height="48" src="https://img.icons8.com/color/96/microsoft-excel-2019.png"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project                      | Description                                 | Tech                |
+| ---------------------------- | ------------------------------------------- | ------------------- |
+| 📈 Stock Price Prediction    | Predict stock prices using Machine Learning | Python • TensorFlow |
+| 📊 Sales Dashboard           | Interactive Power BI dashboard with KPIs    | Power BI • SQL      |
+| 📉 Exploratory Data Analysis | Data cleaning, visualization and insights   | Pandas • NumPy      |
+| 🤖 Machine Learning Models   | Regression, Classification & Clustering     | Scikit-learn        |
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aryan01109&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan01109&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan01109&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=aryan01109&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan01109&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/aryan01109/aryan01109/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 📚 Current Focus
+
+* 📊 Data Analytics
+* 📈 Business Intelligence
+* 🐍 Python Automation
+* 🤖 Machine Learning
+* 📉 Data Visualization
+* 🗄 SQL Optimization
+
+---
+
+# 🌍 Let's Connect
+
+<p align="center">
+
+<a href="mailto:aryanbhoya01@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/bhoya-aryan-1410a3334">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/aryan01109">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge"/>
 </a>
 
 </p>
@@ -191,15 +175,8 @@ Implemented and compared multiple ML algorithms including:
 
 <div align="center">
 
-### 💡 Favorite Quote
+## 💙 *"Data is the new oil, but insights drive decisions."*
 
-> **"Without data, you're just another person with an opinion."**
-> — *W. Edwards Deming*
-
----
-
-⭐ **Thanks for visiting my profile!**
-
-**Let's connect, collaborate, and build impactful data-driven solutions together. 🚀**
+### ⭐ Thank you for visiting my profile!
 
 </div>
