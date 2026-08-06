@@ -96,23 +96,6 @@ class AryanBhoya:
 | 📉 Exploratory Data Analysis | Data cleaning, visualization and insights   | Pandas • NumPy      |
 | 🤖 Machine Learning Models   | Regression, Classification & Clustering     | Scikit-learn        |
 
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aryan01109&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan01109&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan01109&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
