@@ -67,6 +67,24 @@ class AryanBhoya:
 <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase"/>
 </p>
 
+## 🌐 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind"/>
+</p>
+
+## ⚙ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase"/>
+</p>
+
+## 🗄 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+</p>
+
 ---
 
 # 🚀 Featured Projects
