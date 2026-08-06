@@ -108,42 +108,6 @@ class AryanBhoya:
 * 📉 Data Visualization
 * 🗄 SQL Optimization
 
----
-
-# 📊 GitHub Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark"/>
-
----
-
----
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryan01109&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan01109&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ---
 
@@ -161,15 +125,7 @@ class AryanBhoya:
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan01109&theme=tokyo-night"/>
 
----
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aryan01109&theme=algolia&margin-w=15&margin-h=15&column=4"/>
-
-</p>
 
 ---
 
