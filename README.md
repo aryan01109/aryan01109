@@ -109,6 +109,14 @@ class AryanBhoya:
 * 🗄 SQL Optimization
 
 ---
+
+# 📊 GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark"/>
+
+---
+
+---
 # 📈 GitHub Analytics
 
 <p align="center">
