@@ -116,36 +116,6 @@ class AryanBhoya:
 
 ---
 
-# 🏆 Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aryan01109&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan01109&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/aryan01109/aryan01109/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
 # 📚 Current Focus
 
 * 📊 Data Analytics
