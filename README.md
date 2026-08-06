@@ -1,28 +1,14 @@
-<div align="center">
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#00BFFF;">Aryan Bhoya</span>
+</h1>
 
-# 🚀 Aryan Bhoya
+<h3 align="center">
+💻 Computer Engineering Student | AI Developer | Full Stack Developer | Data Science Enthusiast
+</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=📊+Data+Analyst;🐍+Python+Developer;📈+Machine+Learning+Enthusiast;💡+Transforming+Data+Into+Insights;🚀+Always+Learning+Something+New"/>
-
-<p>
-
-<a href="mailto:aryanbhoya01@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/bhoya-aryan-1410a3334">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/aryan01109">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=aryan01109&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Computer+Engineering+Student;AI+Developer;Full+Stack+Developer;Machine+Learning+Enthusiast;Data+Science+Explorer;Hackathon+Builder;Open+Source+Contributor;Always+Learning+🚀" />
 </p>
-
-</div>
 
 ---
 
