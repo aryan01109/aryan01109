@@ -119,13 +119,6 @@ class AryanBhoya:
 
 </p>
 
----
-
-# 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan01109&theme=tokyo-night"/>
-
-
 
 
 
