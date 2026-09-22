@@ -1,7 +1,11 @@
 # 👋 Hi, I'm Aryan Bhoya
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+in+Progress;Data+Science+%7C+Machine+Learning;Generative+AI+%7C+Agentic+AI;Computer+Vision+%7C+AI+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=AI%2FML+Engineer+in+Progress;Data+Science+%7C+Machine+Learning;Generative+AI+%7C+Agentic+AI;Computer+Vision+%7C+AI+Engineering" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <b>Computer Engineering Student | AI/ML Engineer | Data Science | Generative AI | Agentic AI</b>
 </p>
 
 <p align="center">
@@ -15,47 +19,87 @@
 
 ---
 
-## 🚀 About Me
+# 🧑‍💻 About Me
 
-I'm a **Computer Engineering student at L.D. College of Engineering, Ahmedabad**, passionate about building intelligent systems with **Data Science, Machine Learning, Generative AI, Agentic AI, and Computer Vision**.
+I'm a **Computer Engineering student at L.D. College of Engineering, Ahmedabad**, passionate about building intelligent systems using **Data Science, Machine Learning, Generative AI, Agentic AI, and Computer Vision**.
 
-I enjoy turning ideas into working software — from exploring datasets and training ML models to building AI-powered applications, RAG systems, computer-vision pipelines, and full-stack products.
+I enjoy working across the complete AI development journey — from **data analysis and model building to intelligent applications and AI-powered automation**.
 
-### 🎯 My Current Direction
+My current focus is:
 
-**Data Science → Machine Learning → Deep Learning → Generative AI → Agentic AI → AI Engineering**
+> **Data Science → Machine Learning → Deep Learning → Generative AI → Agentic AI → AI Engineering**
 
-- 📊 Exploring **Data Science & Machine Learning**
-- 🤖 Building with **Generative AI & LLMs**
-- 🔗 Learning **AI Agents & Agentic Workflows**
-- 👁️ Developing **Computer Vision** systems
-- ⚙️ Building **AI-powered full-stack applications**
-- 🧩 Interested in **RAG, embeddings, vector databases, and automation**
-- 🛠️ Learning how to deploy and productionize AI systems
+I believe in learning through projects, experimentation, debugging, and solving real-world problems.
 
 ---
 
-## 🧠 Tech Stack
+# 🎯 Current Focus
 
-### 💻 Programming
+- 📊 **Data Science & Data Analytics**
+- 🤖 **Machine Learning**
+- 🧠 **Deep Learning**
+- ✨ **Generative AI & LLMs**
+- 🔗 **RAG & AI Agents**
+- 🚀 **Agentic AI**
+- 👁️ **Computer Vision**
+- ⚙️ **AI Engineering**
+- ☁️ **AI Deployment & MLOps**
+
+---
+
+# ⚡ Tech Arsenal
+
+## 🐍 Programming
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,sql" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js" />
 </p>
 
-### 📊 Data Science & Machine Learning
+**Python • C++ • Java • JavaScript • SQL**
 
-**NumPy • Pandas • Matplotlib • Scikit-learn • Statistics • Feature Engineering • Model Evaluation • Regression • Classification • Clustering**
+---
 
-### 🤖 AI / Generative AI
+## 📊 Data Science
 
-**LLMs • Prompt Engineering • RAG • Embeddings • Vector Databases • AI Agents • Agentic Workflows • GenAI Applications**
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
 
-### 👁️ Computer Vision & Deep Learning
+**NumPy • Pandas • Matplotlib • Scikit-learn • Statistics • Exploratory Data Analysis • Data Cleaning • Feature Engineering • Data Visualization**
 
-**OpenCV • PyTorch • YOLO • CNNs • Image Processing • Object Detection • Image Analysis • Deep Learning**
+---
 
-### 🌐 Full-Stack Development
+## 🤖 Machine Learning
+
+**Regression • Classification • Clustering • Decision Trees • Random Forest • SVM • K-Means • PCA • Ensemble Learning • Model Evaluation • Hyperparameter Tuning**
+
+---
+
+## 🧠 Deep Learning
+
+**Neural Networks • CNNs • PyTorch • Deep Learning • Image Classification • Transfer Learning**
+
+---
+
+## 👁️ Computer Vision
+
+**OpenCV • YOLO • Image Processing • Object Detection • Image Matching • Image Registration • Feature Extraction • Visual Analysis**
+
+---
+
+## ✨ Generative AI
+
+**LLMs • Prompt Engineering • RAG • Embeddings • Vector Databases • AI Applications • Context-Aware Systems**
+
+---
+
+## 🔗 Agentic AI
+
+**AI Agents • Tool Calling • Function Calling • Planning • Memory • Agentic Workflows • Multi-Agent Systems • Autonomous Task Execution**
+
+---
+
+## 🌐 Full-Stack Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase" />
@@ -63,86 +107,117 @@ I enjoy turning ideas into working software — from exploring datasets and trai
 
 **React • Node.js • Express.js • MongoDB • Firebase • REST APIs**
 
-### 🛠️ Tools & Platforms
+---
+
+## 🛠️ Tools & Platforms
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,linux" />
 </p>
 
-**Jupyter Notebook • Google Colab • MongoDB Atlas • Vercel • Render**
+**Git • GitHub • VS Code • Docker • Postman • Jupyter • Google Colab • MongoDB Atlas • Vercel • Render**
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🌙 LunarMatch — AI Lunar Image Matching
+## 🌙 LunarMatch
 
-An AI-powered system designed to determine whether **Chandrayaan-2 lunar imagery and LRO imagery represent the same lunar location**.
+### AI-Based Lunar Image Matching & Registration
 
-**Focus:** Computer Vision • Image Registration • Feature Matching • Robust Estimation • AI
+An AI-powered computer vision system designed to determine whether **Chandrayaan-2 and LRO lunar images represent the same lunar location**.
 
-**Technologies:** Python • PyTorch • OpenCV • FastAPI
+### 🔬 Focus
 
----
+- Image Matching
+- Image Registration
+- Feature Matching
+- Geometric Registration
+- Robust Outlier Rejection
+- Confidence Scoring
+- Computer Vision
 
-### 🏙️ CivicConnect — Smart Civic Issue Reporting
+### 🛠️ Technologies
 
-A full-stack platform for reporting and managing civic issues with an AI-ready architecture.
-
-**Focus:** Smart Reporting • Authentication • Issue Management • Backend APIs
-
-**Technologies:** React • Node.js • Express • MongoDB • Firebase
-
----
-
-### 🌍 AI Travel Recommendation System
-
-An intelligent travel application combining recommendation techniques with AI-powered information retrieval.
-
-**Focus:** Recommendation Systems • RAG • AI Applications • Personalization
-
-**Technologies:** Python • Machine Learning • RAG • Vector Search
+`Python` `PyTorch` `OpenCV` `FastAPI`
 
 ---
 
-## 🔬 AI / ML Areas I'm Exploring
+## 🏙️ CivicConnect
+
+### Smart Civic Issue Reporting Platform
+
+A full-stack platform designed to help citizens report civic issues and manage them through a centralized digital system.
+
+### 🔬 Focus
+
+- Civic Issue Reporting
+- Authentication
+- Image Upload
+- Issue Management
+- REST APIs
+- Cloud Integration
+
+### 🛠️ Technologies
+
+`React` `Node.js` `Express` `MongoDB` `Firebase`
+
+---
+
+## 🌍 AI Travel Recommendation System
+
+An intelligent travel application focused on personalized recommendations and AI-powered information retrieval.
+
+### 🔬 Focus
+
+- Recommendation Systems
+- Machine Learning
+- RAG
+- Vector Search
+- Personalized Recommendations
+
+### 🛠️ Technologies
+
+`Python` `Machine Learning` `RAG` `Vector Database`
+
+---
+
+# 🧠 AI Learning Journey
 
 ```text
-Data Science
-     │
-     ├── Data Cleaning
-     ├── EDA & Visualization
-     ├── Statistics
-     └── Feature Engineering
-              │
-              ▼
-       Machine Learning
-              │
-              ├── Regression
-              ├── Classification
-              ├── Clustering
-              └── Ensemble Learning
-                       │
-                       ▼
-                Deep Learning
-                       │
-                       ├── CNNs
-                       ├── Computer Vision
-                       └── PyTorch
-                              │
-                              ▼
-                    Generative AI
-                              │
-                              ├── LLMs
-                              ├── RAG
-                              ├── Embeddings
-                              └── Vector Databases
-                                      │
-                                      ▼
-                               Agentic AI
-                                      │
-                                      ├── AI Agents
-                                      ├── Tool Calling
-                                      ├── Planning
-                                      ├── Multi-Agent Systems
-                                      └── Autonomous Workflows
+                    ┌──────────────────┐
+                    │   DATA SCIENCE   │
+                    └────────┬─────────┘
+                             │
+                             ▼
+                  ┌────────────────────┐
+                  │ MACHINE LEARNING  │
+                  └─────────┬──────────┘
+                            │
+                            ▼
+                  ┌────────────────────┐
+                  │  DEEP LEARNING   │
+                  └─────────┬──────────┘
+                            │
+                            ▼
+                  ┌────────────────────┐
+                  │  GENERATIVE AI    │
+                  └─────────┬──────────┘
+                            │
+                            ▼
+                  ┌────────────────────┐
+                  │       RAG         │
+                  │ LLMs + Embeddings │
+                  └─────────┬──────────┘
+                            │
+                            ▼
+                  ┌────────────────────┐
+                  │    AGENTIC AI     │
+                  │ AI Agents + Tools  │
+                  └─────────┬──────────┘
+                            │
+                            ▼
+                  ┌────────────────────┐
+                  │  AI ENGINEERING   │
+                  │ Production Systems │
+                  └────────────────────┘
